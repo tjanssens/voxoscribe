@@ -1,0 +1,10 @@
+{
+  "hotkey": "ctrl+shift+space",
+  "language": "nl",
+  "model": "small",
+  "microphone": null,
+  "auto_detect_language": false,
+  "silence_timeout_ms": 1500,
+  "start_with_windows": false,
+  "show_overlay": true
+}
